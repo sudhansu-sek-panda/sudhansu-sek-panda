@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhansu-sek-panda
-- A passionate frontend developer from India
+- A passionate web developer from India
 - 👀 I’m interested in softwares building and designing fields
 - 🌱 I’m currently learning Github Copilot
 - 💞️ I’m looking to collaborate on Github Copilot
